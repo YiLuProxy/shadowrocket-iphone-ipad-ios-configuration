@@ -25,4 +25,4 @@ On the residential IPs or pro mobile IP tab:
 ![Check IP address](https://www.imglink.cc/images/2023/04/03/075f309673e9e1bc9f10b6cefa3b0b1c.png "Check IP address")  
 
 ## Video Tutorial
-<video src="https://www.youtube.com/watch?v=DuIMonJph3c" controls="controls" width="720" height="405"></video>
+You can also view the video to lean: https://www.youtube.com/watch?v=DuIMonJph3c
